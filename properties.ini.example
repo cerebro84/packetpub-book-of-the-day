@@ -1,0 +1,7 @@
+[packetpub]
+USERNAME: youremail@onpacketpub.com
+PASSWORD: yourpassword
+
+[testresult]
+MAILFROM: result-bot@email.com
+MAILTO: results-mailbox@email.com
